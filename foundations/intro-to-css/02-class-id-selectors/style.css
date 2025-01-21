@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mini-class {
+    background-color: rgb(249, 164, 178);
+}
+
+.cool {
+    font-size: 30px;
+}
+
+#oneId {
+    font-size: 40px;
+    color: blue;
+}
+
+#anotherId {
+    background-color: lightgreen;
+    font-size: 25px;
+    font-weight: 900;
+}
