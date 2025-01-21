@@ -1,0 +1,12 @@
+.big-size {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 50px;
+}
+
+.clickme1{
+    background-color: black;
+    color: white;
+}
+.clickme2 {
+    background-color: yellow;
+}
